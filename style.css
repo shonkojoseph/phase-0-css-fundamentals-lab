@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color: red;
+  text-align: center;
+}
+img{
+  display: block;
+  margin: auto;
+}
+nav >a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+nav {
+  text-align: center;
+}
+figcaption{
+  font-size: medium;
+  text-align: center;
+}
+.one{
+  text-align: center;
+  padding-left: 350px;
+width: 800px;
+}
+.two{
+  text-align: center;
+  padding-left: 350px;
+  width: 800px;
+
+}
+.dev{
+  float: left;
+  display: inline;
+  width: 25%;
+  text-align: center;
+  background-color: red;
+}
